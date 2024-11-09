@@ -1,0 +1,2 @@
+# .gitignore 파일 생성
+echo "node_modules/\n.env" > .gitignore
